@@ -23,8 +23,8 @@
     height: 519px;
 }
 .banner6{
-   
-    height: 646px;
+    width: 1419px;
+    height: 546px;
     background: #f5f5f5;
     padding: 50px;
 }
@@ -115,4 +115,27 @@
     margin-top: 20px;
     font-size: 14px;
     color: #666666;
+}
+.banner8{
+    position: relative;
+    top:-620px;
+}
+.banner8 img{
+    height: 772px;
+}
+.banner9{
+    position: absolute;
+    top: 2130px;
+}
+.banner10{
+    position: relative;
+    top:150px;
+}
+.banner11{
+   position: relative;
+   top:15px;
+}
+.banner12{
+    position: relative;
+    top: 20px;
 }
